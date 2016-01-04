@@ -9,8 +9,8 @@
 title: "Cassidy's Musings"
 email: cassidy.j.harpster@gmail.com
 description: "Programming, sports ranting, and other content."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site
+baseurl: "/my_blog" # the subpath of your site, e.g. /blog this fixes the CSS not getting jacked up on the deployment site
+url: "http://cajam.github.io/my_blog/" # the base hostname & protocol for your site
 github_username:  Cajam
 
 # Build settings
