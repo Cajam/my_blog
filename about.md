@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-![My picture]({{ site.url }}/images/professionalpicture.jpg)
 
 I'm Cassidy, a web developer located in the Washington, D.C. area. I'm a future graduate of the General Assembly web development program, and I finish up my immersive course in January 2016. I'm currently searching for a company with a strong development program for their junior developers, in order to help grow my skills.
 
