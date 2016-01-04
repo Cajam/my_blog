@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 3px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -11,8 +11,9 @@
 }
 
 .site-title {
-    font-size: 26px;
-    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 320;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
